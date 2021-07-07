@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ahmed-Sidebar/static/css/main.94e3b3d8.chunk.css",
+    "main.js": "/Ahmed-Sidebar/static/js/main.4cda72c4.chunk.js",
+    "main.js.map": "/Ahmed-Sidebar/static/js/main.4cda72c4.chunk.js.map",
+    "runtime-main.js": "/Ahmed-Sidebar/static/js/runtime-main.8bfc08eb.js",
+    "runtime-main.js.map": "/Ahmed-Sidebar/static/js/runtime-main.8bfc08eb.js.map",
+    "static/js/2.29e41ed9.chunk.js": "/Ahmed-Sidebar/static/js/2.29e41ed9.chunk.js",
+    "static/js/2.29e41ed9.chunk.js.map": "/Ahmed-Sidebar/static/js/2.29e41ed9.chunk.js.map",
+    "static/js/3.7ec05c3a.chunk.js": "/Ahmed-Sidebar/static/js/3.7ec05c3a.chunk.js",
+    "static/js/3.7ec05c3a.chunk.js.map": "/Ahmed-Sidebar/static/js/3.7ec05c3a.chunk.js.map",
+    "index.html": "/Ahmed-Sidebar/index.html",
+    "static/css/main.94e3b3d8.chunk.css.map": "/Ahmed-Sidebar/static/css/main.94e3b3d8.chunk.css.map",
+    "static/js/2.29e41ed9.chunk.js.LICENSE.txt": "/Ahmed-Sidebar/static/js/2.29e41ed9.chunk.js.LICENSE.txt",
+    "static/media/download.89fc7756.png": "/Ahmed-Sidebar/static/media/download.89fc7756.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8bfc08eb.js",
+    "static/js/2.29e41ed9.chunk.js",
+    "static/css/main.94e3b3d8.chunk.css",
+    "static/js/main.4cda72c4.chunk.js"
+  ]
+}
